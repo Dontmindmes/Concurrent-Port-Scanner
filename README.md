@@ -9,7 +9,7 @@ This program will scan 25 ports concurrently on a selected ip address and return
 
 
 >Concurrent Port Scanner
->Enter Ip Address: 192.168.1.1
+>Enter IP Address: 192.168.1.1
 >- Port 53 is open
 >- Port 80 is open
 >- Port 443 is open

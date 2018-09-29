@@ -5,7 +5,7 @@ Scans every single port on a chosen ip address
 This program will scan 25 ports concurrently on a selected ip address and return what ports are open or not
 
 
-## H2 Console Sample
+## Console Sample
 
 
 >Concurrent Port Scanner

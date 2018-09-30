@@ -9,7 +9,7 @@ import (
 	"github.com/remeh/sizedwaitgroup"
 )
 
-var swg = sizedwaitgroup.New(25) // 8 Being the amount of conncurent tasks allowed to run
+var swg = sizedwaitgroup.New(25) // 25 Being the amount of conncurent tasks allowed to run
 var ip string
 
 func main() {
